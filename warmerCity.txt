@@ -1,0 +1,24 @@
+[
+ name=Moscow temp=17.0, 
+ name=Kyiv temp=16.75, 
+ name=London temp=12.5, 
+ name=Barcelona temp=26.93, 
+ name=Buenos Aires temp=21.28, 
+ name=Milan temp=14.16, 
+ name=New York temp=18.07, 
+ name=Liverpool temp=16.11, 
+ name=Puerto Rico temp=22.34, 
+ name=Reykjavik temp=7.77, 
+ name=Irkutsk temp=8.0]
+[
+ name=Barcelona temp=26.93, 
+ name=Puerto Rico temp=22.34, 
+ name=Buenos Aires temp=21.28, 
+ name=New York temp=18.07, 
+ name=Moscow temp=17.0, 
+ name=Kyiv temp=16.75, 
+ name=Liverpool temp=16.11, 
+ name=Milan temp=14.16, 
+ name=London temp=12.5, 
+ name=Irkutsk temp=8.0, 
+ name=Reykjavik temp=7.77]
